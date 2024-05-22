@@ -53,7 +53,7 @@ function FormSeven() {
                 Upload image
                 <VisuallyHiddenInput onChange={handleChange} type="file" />
             </Button>
-            <Box sx={{ textAlign: 'center', m: 1 }}>
+            <Box sx={{ textAlign: 'center', m: 1 }} display="flex" justifyContent="center">
                 <img
                     src={file}
                     style={{
