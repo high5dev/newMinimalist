@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "@emotion/react": "latest",
+    "@emotion/styled": "latest",
+    "@fontsource/roboto": "^5.0.13",
+    "@hookform/devtools": "4.3.0",
+    "@hookform/resolvers": "2.9.11",
+    "@mui/icons-material": "5.11.9",
+    "@mui/lab": "5.0.0-alpha.120",
+    "@mui/material": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-hook-form": "7.42.1",
+    "typescript": "latest",
+    "yup": "1.0.1"
+  },
+  "description": "https://github.com/mui/material-ui/blob/v5.11.6/docs/data/material/components/steppers/HorizontalLinearStepper.tsx",
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "main": "index.tsx",
+  "scripts": {
+    "start": "react-scripts start"
+  },
+  "keywords": [],
+  "name": "muistepper",
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
